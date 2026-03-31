@@ -7,3 +7,5 @@ build/
 # Legacy Backend & Static Files (Archived)
 backend/
 legacy/
+
+.vercel
